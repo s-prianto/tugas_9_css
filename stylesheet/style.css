@@ -1,0 +1,23 @@
+body{
+  background-image: url("../img/slider2.jpg");
+  background-size: cover;
+  position:relative;
+}
+
+img{
+  position:absolute;
+  z-index: -1;
+  right:0;
+}
+
+div{
+  background-color: white;
+  width:800px;
+  float:right;
+  text-align: right;
+}
+
+p{
+  font-weight: bold;
+  font-size: 15px;
+}
